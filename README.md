@@ -1,2 +1,2 @@
-# Chess-App
+# ChesscApp
 Chess application with user interface
